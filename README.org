@@ -1,0 +1,11 @@
+
+* Synopsis
+  Copy of https://bitbucket.org/rgrau/celebritystatus-backend/ using
+  turbolua and heroku.
+
+* Author
+  [[http://www.github.com/kidd][Raimon Grau Cuscó]] (raimonster@gmail.com)
+
+* Other
+  - see the  [[http://github.com/kidd/heroku-buildpack-turbolua.git][heroku-buildpack-lua]] to deploy [[http://turbolua.org/][turbolua]] apps in heroku.
+  - This app used https://github.com/kidd/heroku-turbolua-sample as a skeleton.
