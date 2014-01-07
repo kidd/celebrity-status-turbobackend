@@ -3,6 +3,11 @@
   Copy of https://bitbucket.org/rgrau/celebritystatus-backend/ using
   turbolua and heroku.
 
+* Data
+  - http://celebrity-status-turbobackend.herokuapp.com/
+  - git@heroku.com:celebrity-status-turbobackend.git
+
+
 * Author
   [[http://www.github.com/kidd][Raimon Grau Cuscó]] (raimonster@gmail.com)
 
